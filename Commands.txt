@@ -1,0 +1,12 @@
+**COMMANDS:**
+
+- !play {song} - *Plays/downloads music into current channel.*
+
+- !requirements {game} - *Lists requirements for a game. Results by Steam.*
+
+- !steamdeck {game} - *Checks if a game is compatible with Steam Deck. Results by Steam.*
+
+- !news {game} - *Shows the latest news update for a game. Results by Steam.*
+
+**Steam Commands Disclaimer**
+Results may be incorrect or may not work in general. For example, typing in a non existant game like "half life 120" may result in "Transmissions: Element 120".
